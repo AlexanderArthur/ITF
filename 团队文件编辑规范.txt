@@ -1,3 +1,5 @@
 1. 禁止使用Windows文本编辑器编辑.txt文件，建议使用NotePad++/Editplus进行编辑；
-2. 禁止使用WPS编辑.doc/.docx、.ppt/.pptx、.xls/.xlsx文件，必须使用Microsoft Word/PowerPoint/Excel
-或Microsoft Office进行编辑。
+2. 禁止使用WPS编辑.doc/.docx、.ppt/.pptx、.xls/.xlsx文件，必须使用Microsoft Word/PowerPoint/Excel;
+或Microsoft Office进行编辑;
+3. 压缩文件统一采用.zip格式.
+
